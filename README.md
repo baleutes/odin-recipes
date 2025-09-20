@@ -1,0 +1,1 @@
+This is a repository for the "Recipes" task in The Odin Project web development course.

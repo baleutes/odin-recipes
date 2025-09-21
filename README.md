@@ -1,1 +1,1 @@
-This is a repository for the "Recipes" task in The Odin Project web development course.
+This is a repository for the "Project: Recipes" task in The Odin Project web development course. Became a bit better at HTML, using Git and creating good and consistent commit messages.
